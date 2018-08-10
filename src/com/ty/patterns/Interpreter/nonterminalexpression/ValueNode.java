@@ -1,6 +1,6 @@
-package com.ty.patterns.Interpreter.node;
+package com.ty.patterns.Interpreter.nonterminalexpression;
 
-import com.ty.patterns.Interpreter.Node;
+import com.ty.patterns.Interpreter.abstractexpression.Node;
 
 public class ValueNode implements Node {
 

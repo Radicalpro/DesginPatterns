@@ -1,7 +1,6 @@
-package com.ty.patterns.Interpreter.node;
+package com.ty.patterns.Interpreter.terminalexpression;
 
-import com.ty.patterns.Interpreter.Node;
-import com.ty.patterns.Interpreter.SymbolNode;
+import com.ty.patterns.Interpreter.abstractexpression.Node;
 
 public class ModNode extends SymbolNode {
 

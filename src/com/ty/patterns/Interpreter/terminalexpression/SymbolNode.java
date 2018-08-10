@@ -1,4 +1,6 @@
-package com.ty.patterns.Interpreter;
+package com.ty.patterns.Interpreter.terminalexpression;
+
+import com.ty.patterns.Interpreter.abstractexpression.Node;
 
 public abstract class SymbolNode implements Node {
 

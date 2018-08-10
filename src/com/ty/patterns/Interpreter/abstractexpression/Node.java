@@ -1,4 +1,4 @@
-package com.ty.patterns.Interpreter;
+package com.ty.patterns.Interpreter.abstractexpression;
 
 public interface Node {
 

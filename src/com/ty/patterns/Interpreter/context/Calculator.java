@@ -1,9 +1,10 @@
-package com.ty.patterns.Interpreter;
+package com.ty.patterns.Interpreter.context;
 
-import com.ty.patterns.Interpreter.node.DivNode;
-import com.ty.patterns.Interpreter.node.ModNode;
-import com.ty.patterns.Interpreter.node.MulNode;
-import com.ty.patterns.Interpreter.node.ValueNode;
+import com.ty.patterns.Interpreter.abstractexpression.Node;
+import com.ty.patterns.Interpreter.terminalexpression.DivNode;
+import com.ty.patterns.Interpreter.terminalexpression.ModNode;
+import com.ty.patterns.Interpreter.terminalexpression.MulNode;
+import com.ty.patterns.Interpreter.nonterminalexpression.ValueNode;
 
 import java.util.Stack;
 
