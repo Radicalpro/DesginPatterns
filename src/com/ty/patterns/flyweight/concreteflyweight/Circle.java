@@ -1,4 +1,6 @@
-package com.ty.patterns.flyweight;
+package com.ty.patterns.flyweight.concreteflyweight;
+
+import com.ty.patterns.flyweight.flyweight.Shape;
 
 public class Circle extends Shape {
     private String color;

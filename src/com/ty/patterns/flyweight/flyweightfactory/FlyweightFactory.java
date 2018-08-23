@@ -1,4 +1,7 @@
-package com.ty.patterns.flyweight;
+package com.ty.patterns.flyweight.flyweightfactory;
+
+import com.ty.patterns.flyweight.concreteflyweight.Circle;
+import com.ty.patterns.flyweight.flyweight.Shape;
 
 import java.util.HashMap;
 import java.util.Map;

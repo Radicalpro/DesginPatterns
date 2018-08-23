@@ -1,5 +1,8 @@
 package com.ty.patterns.flyweight;
 
+import com.ty.patterns.flyweight.flyweight.Shape;
+import com.ty.patterns.flyweight.flyweightfactory.FlyweightFactory;
+
 public class Client {
     public static void main(String[] args) {
         Shape shape1 = FlyweightFactory.getShape("红色");

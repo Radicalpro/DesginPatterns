@@ -1,4 +1,4 @@
-package com.ty.patterns.facade;
+package com.ty.patterns.facade.subsystem;
 
 public class Light {
     public void on() {

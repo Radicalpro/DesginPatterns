@@ -1,4 +1,9 @@
-package com.ty.patterns.facade;
+package com.ty.patterns.facade.facade;
+
+import com.ty.patterns.facade.subsystem.Television;
+import com.ty.patterns.facade.subsystem.AirCondition;
+import com.ty.patterns.facade.subsystem.Light;
+import com.ty.patterns.facade.subsystem.Screen;
 
 public class WatchTvSwtichFacade {
     private Light light;
