@@ -1,6 +1,6 @@
 package com.ty.patterns.strategy;
 
-import com.ty.patterns.strategy.concretestragegy.SelectSort;
+import com.ty.patterns.strategy.concretestratyegy.SelectSort;
 import com.ty.patterns.strategy.handle.ArrayHandler;
 import com.ty.patterns.strategy.strategy.Sort;
 

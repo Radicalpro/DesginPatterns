@@ -1,4 +1,4 @@
-package com.ty.patterns.strategy.concretestragegy;
+package com.ty.patterns.strategy.concretestratyegy;
 
 import com.ty.patterns.strategy.strategy.Sort;
 
